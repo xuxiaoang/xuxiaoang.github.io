@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiaoang Xu (许啸昂)"
+title                    : "Xiaoang Xu ———— (许啸昂)"
 description              : "NLP Ph.D. Student in BUPT (VCIS); Intern in ModelBest (THUNLP)"
 repository               : "xuxiaoang/xuxiaoang.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiaoang Xu      (许啸昂)"
+  name             : "Xiaoang Xu (许啸昂)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "BUPT"
   location         : "Beijing, China"
