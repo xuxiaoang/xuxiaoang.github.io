@@ -17,8 +17,6 @@ If you like the template of this homepage, welcome to star and fork my open-sour
 
 {% include_relative includes/pub.md %}
 
-<!--
 {% include_relative includes/honers.md %}
 
 {% include_relative includes/others.md %}
--->
