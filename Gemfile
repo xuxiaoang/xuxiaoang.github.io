@@ -31,7 +31,7 @@
 
 source "https://rubygems.org"
 
-ruby "3.2.9"
+# ruby "3.2.9"
 
 gem "jekyll", "~> 4.3"
 gem "nokogiri", "~> 1.16"
