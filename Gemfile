@@ -31,7 +31,7 @@
 
 source "https://rubygems.org"
 
-ruby "3.3.0"
+# ruby "3.3.0"
 
 gem "jekyll", "~> 4.3"
 gem "nokogiri", "~> 1.16"
@@ -39,7 +39,7 @@ gem "nokogiri", "~> 1.16"
 group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-sitemap"
-  # gem "hawkins"   # <-- 删掉或注释掉
+  gem 'jekyll-paginate'
 end
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
